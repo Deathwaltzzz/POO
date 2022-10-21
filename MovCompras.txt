@@ -1,0 +1,4 @@
+5 Pinzas 10.0 400.5 A
+8 Desarmador 5.0 115.5 A
+7 Solvente 100.5 50.5 B
+1 Pintura 150.5 70.5 B
